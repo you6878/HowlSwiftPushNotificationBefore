@@ -1,0 +1,6 @@
+framework module Pods_HowlPushNotification {
+  umbrella header "Pods-HowlPushNotification-umbrella.h"
+
+  export *
+  module * { export * }
+}
